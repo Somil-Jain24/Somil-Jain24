@@ -1,0 +1,44 @@
+# ==========================================
+# Somil Jain — GitHub Profile README
+# .gitignore: Ignore raw photos, build scripts, test suites, and temporary artifacts
+# ==========================================
+
+# Raw Images and Photos (All production graphics are 100% self-contained in SVGs)
+*.png
+*.jpg
+*.jpeg
+*.webp
+assets/*.png
+id.png
+id_rigghtpoint.png
+right_pointing.png
+test_*.png
+
+# Build & Generator Scripts
+*.py
+*.pyc
+__pycache__/
+assets/__pycache__/
+assets/brand_icons.py
+
+# Intermediate Base64 and Scratch Artifacts
+assets/*_b64.txt
+assets/font_*_b64.txt
+assets/id_b64.txt
+assets/rp_b64.txt
+
+# Keep Font License Documentation
+!assets/FONTS_LICENSE.txt
+
+# Verification Test Suite & Screenshot Output
+verification/
+test_*.html
+
+# IDE, Editor, and OS Cache
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
