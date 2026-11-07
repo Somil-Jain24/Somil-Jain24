@@ -210,7 +210,7 @@
     </clipPath>
   </defs>
 
-  <a href="https://somiljain-portfolio.netlify.app/" target="_blank" style="text-decoration: none;">
+  <a href="https://somiljain-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <!-- Background Base -->
     <rect x="1" y="1" width="878" height="418" rx="20" class="h_bg" />
     <rect x="1" y="1" width="878" height="418" rx="20" fill="url(#h_glow_blue)" />

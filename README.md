@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO SECTION (CLICK ANYWHERE TO VISIT LIVE PORTFOLIO) -->
-<a href="https://somiljain-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+<!-- HERO SECTION (CLICK ANYWHERE TO VISIT LIVE PORTFOLIO IN NEW TAB) -->
+<a href="https://somiljain-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="assets/hero.svg?v=1" alt="Somil Jain - Java Full-Stack Developer & Aspiring Forward Deployed Engineer (Click to Visit Live Portfolio)" width="100%" />
 </a>
 
@@ -30,9 +30,9 @@ A selection of systems, products, and applications engineered for performance, r
 
 | Project | Overview & Architecture | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **OnboardOS** | **Intelligent Employee Onboarding Platform**<br/>Engineered with role-aware AI assistance, structured multi-stage workflow automation, secure authentication, and real-time onboarding milestone tracking. | `Java` `Spring Boot` `React` `PostgreSQL` `REST APIs` | [**Explore Repository →**](https://github.com/Somil-Jain24) |
-| **IREN** | **Image Recognition & Explanation Network**<br/>An offline-first, privacy-conscious AI mobile application dedicated to explainable AI computer vision, on-device model inference, and instant classification. | `Android` `Java` `On-Device AI` `Explainable ML` | [**Explore Repository →**](https://github.com/Somil-Jain24) |
-| **DAMS** | **Document & Academic Management System**<br/>A comprehensive academic information management platform designed to streamline student records, document workflows, and structured institutional data. | `Full-Stack` `TypeScript` `Node.js` `SQL` `REST APIs` | [**Explore Repository →**](https://github.com/Somil-Jain24) |
+| **OnboardOS** | **Intelligent Employee Onboarding Platform**<br/>Engineered with role-aware AI assistance, structured multi-stage workflow automation, secure authentication, and real-time onboarding milestone tracking. | `Java` `Spring Boot` `React` `PostgreSQL` `REST APIs` | <a href="https://github.com/Somil-Jain24" target="_blank" rel="noopener noreferrer"><strong>Explore Repository →</strong></a> |
+| **IREN** | **Image Recognition & Explanation Network**<br/>An offline-first, privacy-conscious AI mobile application dedicated to explainable AI computer vision, on-device model inference, and instant classification. | `Android` `Java` `On-Device AI` `Explainable ML` | <a href="https://github.com/Somil-Jain24" target="_blank" rel="noopener noreferrer"><strong>Explore Repository →</strong></a> |
+| **DAMS** | **Document & Academic Management System**<br/>A comprehensive academic information management platform designed to streamline student records, document workflows, and structured institutional data. | `Full-Stack` `TypeScript` `Node.js` `SQL` `REST APIs` | <a href="https://github.com/Somil-Jain24" target="_blank" rel="noopener noreferrer"><strong>Explore Repository →</strong></a> |
 
 <br/>
 
@@ -49,27 +49,27 @@ A selection of systems, products, and applications engineered for performance, r
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-247BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://somiljain-portfolio.netlify.app/)
+<a href="https://somiljain-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Portfolio-247BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somiljain024)
+<a href="https://www.linkedin.com/in/somiljain024" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Somil-Jain24)
+<a href="https://github.com/Somil-Jain24" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somiljain2416/)
+<a href="https://www.instagram.com/somiljain2416/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br/><br/>
 
 | Platform | Handle / Profile | Direct Connection Link |
 | :--- | :--- | :--- |
-| 🌐 **Developer Portfolio** | `somiljain-portfolio.netlify.app` | [**somiljain-portfolio.netlify.app →**](https://somiljain-portfolio.netlify.app/) |
-| 💼 **LinkedIn** | `in/somiljain024` | [linkedin.com/in/somiljain024](https://www.linkedin.com/in/somiljain024) |
-| 💻 **GitHub** | `@Somil-Jain24` | [github.com/Somil-Jain24](https://github.com/Somil-Jain24) |
-| 📸 **Instagram** | `@somiljain2416` | [instagram.com/somiljain2416](https://www.instagram.com/somiljain2416/) |
+| 🌐 **Developer Portfolio** | `somiljain-portfolio.vercel.app` | <a href="https://somiljain-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>somiljain-portfolio.vercel.app →</strong></a> |
+| 💼 **LinkedIn** | `in/somiljain024` | <a href="https://www.linkedin.com/in/somiljain024" target="_blank" rel="noopener noreferrer">linkedin.com/in/somiljain024</a> |
+| 💻 **GitHub** | `@Somil-Jain24` | <a href="https://github.com/Somil-Jain24" target="_blank" rel="noopener noreferrer">github.com/Somil-Jain24</a> |
+| 📸 **Instagram** | `@somiljain2416` | <a href="https://www.instagram.com/somiljain2416/" target="_blank" rel="noopener noreferrer">instagram.com/somiljain2416/</a> |
 
 <br/>
 
 ```text
-🌐 Portfolio: https://somiljain-portfolio.netlify.app/ • 📍 Indore, MP, India • Acropolis Institute of Technology and Research
+🌐 Portfolio: https://somiljain-portfolio.vercel.app/ • 📍 Indore, MP, India • Acropolis Institute of Technology and Research
 ```
 
 </div>
