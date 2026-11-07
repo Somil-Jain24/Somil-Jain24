@@ -195,8 +195,9 @@
       <stop offset="100%" stop-color="#ff354f" />
     </linearGradient>
 
+    <!-- Rising Name Mask: Covers full text width from x=-10 to ensure the letter S is fully visible -->
     <clipPath id="h_name_mask">
-      <rect x="50" y="80" width="540" height="70" />
+      <rect x="-10" y="80" width="600" height="80" />
     </clipPath>
 
     <clipPath id="h_avatar_clip">
@@ -233,7 +234,7 @@
       <rect x="165" y="-12" width="8" height="15" rx="1" class="h_cursor" />
     </g>
 
-    <!-- Rising-Mask Name Reveal -->
+    <!-- Rising-Mask Name Reveal (Mask starts at x=-10 to ensure complete S visibility) -->
     <g clip-path="url(#h_name_mask)">
       <text x="0" y="142" class="h_display h_name">SOMIL JAIN</text>
     </g>
