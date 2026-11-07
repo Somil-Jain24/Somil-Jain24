@@ -124,6 +124,10 @@
       background: #040711;
       border: 1px solid rgba(255, 255, 255, 0.05);
     }
+    .asset-render-container a {
+      display: block;
+      cursor: pointer;
+    }
     .asset-render-container svg,
     .asset-render-container img {
       display: block;
@@ -169,7 +173,7 @@
     .social-btn-row {
       display: flex;
       justify-content: center;
-      gap: 16px;
+      gap: 14px;
       margin: 20px 0;
       flex-wrap: wrap;
     }
@@ -189,6 +193,7 @@
     .social-pill:hover {
       transform: translateY(-2px);
     }
+    .pill-portfolio { background: #247bff; border-color: #38bdf8; }
     .pill-linkedin { background: #0a66c2; border-color: #38bdf8; }
     .pill-github { background: #181717; border-color: #475569; }
     .pill-instagram { background: #e4405f; border-color: #fda4af; }
@@ -258,14 +263,16 @@
   <main class="wrapper" id="mainWrapper">
     <div class="readme-card">
       
-      <!-- 1. HERO -->
+      <!-- 1. HERO (CLICKABLE TO OPEN PORTFOLIO) -->
       <section class="asset-block">
         <div class="asset-header">
           <span>assets/hero.svg?v=1</span>
-          <span>880 x 420 • Typing &amp; Rising-Mask Reveal</span>
+          <span>880 x 420 • Click anywhere to redirect to Portfolio</span>
         </div>
         <div class="asset-render-container">
-          <img src="assets/hero.svg?v=1" alt="Somil Jain Hero" class="svg-target" />
+          <a href="https://somiljain-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer" title="Click anywhere to open Somil Jain's Developer Portfolio">
+            <img src="assets/hero.svg?v=1" alt="Somil Jain Hero (Click to visit live portfolio)" class="svg-target" />
+          </a>
         </div>
       </section>
 
@@ -370,10 +377,13 @@
         </div>
       </section>
 
-      <!-- REAL CLICKABLE SOCIAL BUTTONS -->
+      <!-- REAL CLICKABLE SOCIAL BUTTONS INCLUDING PORTFOLIO -->
       <section style="text-align: center; margin-top: 24px;">
         <p style="font-size: 13px; color: #94a3b8; margin-bottom: 12px;">Verified Direct Contact Channels (Clickable Links):</p>
         <div class="social-btn-row">
+          <a href="https://somiljain-portfolio.netlify.app/" target="_blank" class="social-pill pill-portfolio">
+            <span>🌐 Portfolio: somiljain-portfolio.netlify.app</span>
+          </a>
           <a href="https://www.linkedin.com/in/somiljain024" target="_blank" class="social-pill pill-linkedin">
             <span>LinkedIn: in/somiljain024</span>
           </a>
@@ -389,6 +399,10 @@
       <!-- SYSTEM AUDIT & VERIFICATION REPORT -->
       <div class="audit-grid">
         <div class="audit-card">
+          <h4>✅ Interactive Live Portfolio</h4>
+          <p style="color: #94a3b8;">Hero card redirects anywhere on click to somiljain-portfolio.netlify.app. Direct portfolio badge integrated.</p>
+        </div>
+        <div class="audit-card">
           <h4>✅ Self-Contained Assets</h4>
           <p style="color: #94a3b8;">100% inlined base64 PNGs and WOFF2 fonts with SIL Open Font License 1.1. Zero external network requests.</p>
         </div>
@@ -398,11 +412,7 @@
         </div>
         <div class="audit-card">
           <h4>✅ Exact Alpha &amp; Facial Fidelity</h4>
-          <p style="color: #94a3b8;">Exact id.png &amp; right_pointing.png preserved with full alpha transparency. No face redrawing.</p>
-        </div>
-        <div class="audit-card">
-          <h4>✅ GitHub Camo &amp; Reduced Motion</h4>
-          <p style="color: #94a3b8;">CSS + SMIL animations with fill-mode both. Fully accessible via prefers-reduced-motion media queries.</p>
+          <p style="color: #94a3b8;">Exact id.png &amp; right_pointing.png preserved with full alpha transparency. Complete hair headroom.</p>
         </div>
       </div>
 

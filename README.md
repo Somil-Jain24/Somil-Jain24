@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- HERO SECTION -->
-<img src="assets/hero.svg?v=1" alt="Somil Jain - Java Full-Stack Developer & Aspiring Forward Deployed Engineer" width="100%" />
+<!-- HERO SECTION (CLICK ANYWHERE TO VISIT LIVE PORTFOLIO) -->
+<a href="https://somiljain-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="assets/hero.svg?v=1" alt="Somil Jain - Java Full-Stack Developer & Aspiring Forward Deployed Engineer (Click to Visit Live Portfolio)" width="100%" />
+</a>
 
 <br/><br/>
 
@@ -47,6 +49,8 @@ A selection of systems, products, and applications engineered for performance, r
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-247BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://somiljain-portfolio.netlify.app/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somiljain024)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Somil-Jain24)
@@ -57,14 +61,15 @@ A selection of systems, products, and applications engineered for performance, r
 
 | Platform | Handle / Profile | Direct Connection Link |
 | :--- | :--- | :--- |
-| **LinkedIn** | `in/somiljain024` | [linkedin.com/in/somiljain024](https://www.linkedin.com/in/somiljain024) |
-| **GitHub** | `@Somil-Jain24` | [github.com/Somil-Jain24](https://github.com/Somil-Jain24) |
-| **Instagram** | `@somiljain2416` | [instagram.com/somiljain2416](https://www.instagram.com/somiljain2416/) |
+| 🌐 **Developer Portfolio** | `somiljain-portfolio.netlify.app` | [**somiljain-portfolio.netlify.app →**](https://somiljain-portfolio.netlify.app/) |
+| 💼 **LinkedIn** | `in/somiljain024` | [linkedin.com/in/somiljain024](https://www.linkedin.com/in/somiljain024) |
+| 💻 **GitHub** | `@Somil-Jain24` | [github.com/Somil-Jain24](https://github.com/Somil-Jain24) |
+| 📸 **Instagram** | `@somiljain2416` | [instagram.com/somiljain2416](https://www.instagram.com/somiljain2416/) |
 
 <br/>
 
 ```text
-📍 Indore, Madhya Pradesh, India • Acropolis Institute of Technology and Research (2023–2027)
+🌐 Portfolio: https://somiljain-portfolio.netlify.app/ • 📍 Indore, MP, India • Acropolis Institute of Technology and Research
 ```
 
 </div>
